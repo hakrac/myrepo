@@ -1,0 +1,3 @@
+[submodule "sudokujs"]
+	path = sudokujs
+	url = https://github.com/hakrac/sudokujs.git
